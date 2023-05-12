@@ -4,7 +4,7 @@
 This repository contains the implementation of advanced time series forecasting models, including ARMA, LSTM, and SARIMA, for predicting energy loss during distribution. These models have been developed to assist in optimizing energy distribution networks and improving operational efficiency.
 
 ### Dataset
-1. Dataset is taken from International Energy Agency(IEA)
+1. Dataset is taken from International Energy Agency(IEA) monthly electricity statistics.
 2. This Dataset contains Net Electricity Production, Electricity used for pumped storage, Distribution Losses of different countries and many more useful attributes.
 
 ### Models Implemented
