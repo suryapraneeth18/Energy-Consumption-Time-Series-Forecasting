@@ -3,6 +3,12 @@
 
 This repository contains the implementation of advanced time series forecasting models, including ARMA, LSTM, and SARIMA, for predicting energy loss during distribution. These models have been developed to assist in optimizing energy distribution networks and improving operational efficiency.
 
+### Dataset
+1. Dataset is taken from International Energy Agency(IEA)
+2. This Dataset contains Net Electricity Production, Net Electricity Production, Used for pumped storage, Distribution Losses of different countries and many more useful attributes.
+![image](https://github.com/suryapraneeth18/Energy-Loss-Time-Series-Forecasting/assets/75241973/9277b0dd-6d8c-4b83-b23b-8167560c38f1)
+
+
 ### Models Implemented
 
 1. ARMA (AutoRegressive Moving Average):
@@ -32,9 +38,5 @@ The implementation is based on Python 3.7 or later. The following libraries are 
 To use any of the implemented models, follow the instructions provided in the respective Jupyter Notebook file. Each notebook provides step-by-step guidance on data preparation, model configuration, training, and evaluation. 
 
 Make sure to have the necessary data available in the specified format or adapt the code to your specific dataset.
-
-### License
-
-This project is licensed under the [MIT License](). Feel free to use and modify the code according to your needs.
 
 For any questions or issues, please contact [praneethyalaka1346@gmail.com].
