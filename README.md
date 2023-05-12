@@ -6,8 +6,6 @@ This repository contains the implementation of advanced time series forecasting 
 ### Dataset
 1. Dataset is taken from International Energy Agency(IEA)
 2. This Dataset contains Net Electricity Production, Net Electricity Production, Used for pumped storage, Distribution Losses of different countries and many more useful attributes.
-![image](https://github.com/suryapraneeth18/Energy-Loss-Time-Series-Forecasting/assets/75241973/9277b0dd-6d8c-4b83-b23b-8167560c38f1)
-
 
 ### Models Implemented
 
