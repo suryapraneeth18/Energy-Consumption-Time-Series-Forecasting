@@ -33,8 +33,6 @@ The implementation is based on Python 3.7 or later. The following libraries are 
 
 ### Usage
 
-To use any of the implemented models, follow the instructions provided in the respective Jupyter Notebook file. Each notebook provides step-by-step guidance on data preparation, model configuration, training, and evaluation. 
-
 Make sure to have the necessary data available in the specified format or adapt the code to your specific dataset.
 
 For any questions or issues, please contact [praneethyalaka1346@gmail.com].
