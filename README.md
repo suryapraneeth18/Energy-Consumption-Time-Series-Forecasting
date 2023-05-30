@@ -10,15 +10,15 @@ This repository contains advanced time series forecasting models (ARMA, LSTM, SA
 ### Models Implemented
 
 1. ARMA (AutoRegressive Moving Average):
-The ARMA model is a classic time series forecasting approach that captures the autoregressive and moving average components of the energy loss data. It considers the historical values and lagged errors to make accurate predictions.
+The ARMA model is a classic time series forecasting approach that captures the autoregressive and moving average components of the energy consumption data. It considers the historical values and lagged errors to make accurate predictions.
 
 ### Working on....
 
 2. LSTM (Long Short-Term Memory):
-The LSTM model is a deep learning technique that can effectively capture long-term dependencies in sequential data. It utilizes recurrent neural networks with memory cells to learn and predict energy loss patterns, considering both short and long-term dependencies.
+The LSTM model is a deep learning technique that can effectively capture long-term dependencies in sequential data. It utilizes recurrent neural networks with memory cells to learn and predict energy consumption patterns, considering both short and long-term dependencies.
 
 3. SARIMA (Seasonal AutoRegressive Integrated Moving Average):
-The SARIMA model is a powerful time series forecasting method that takes into account seasonal patterns in the data. It combines the autoregressive, moving average, and seasonal components to accurately predict energy loss based on historical patterns and trends.
+The SARIMA model is a powerful time series forecasting method that takes into account seasonal patterns in the data. It combines the autoregressive, moving average, and seasonal components to accurately predict energy consumption based on historical patterns and trends.
 
 ### Requirements
 
