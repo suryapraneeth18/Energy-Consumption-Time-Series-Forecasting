@@ -1,7 +1,7 @@
-# Energy-Loss-Time-Series-Forecasting
-## Energy Loss Time Series Forecasting Models - Readme
+# Energy-Consumption-Time-Series-Forecasting
+## Energy Consumption Time Series Forecasting Models - Readme
 
-This repository contains the implementation of advanced time series forecasting models, including ARMA, LSTM, and SARIMA, for predicting energy loss during distribution. These models have been developed to assist in optimizing energy distribution networks and improving operational efficiency.
+This repository contains advanced time series forecasting models (ARMA, LSTM, SARIMA) for energy consumption prediction. It aims to optimize energy distribution networks and improve operational efficiency by accurately forecasting future energy consumption patterns. The models leverage historical data to capture trends, seasonality, and complex relationships, facilitating informed decision-making for resource allocation and infrastructure planning. Collaborators and stakeholders are invited to explore and contribute to this repository, driving advancements in sustainable energy management.
 
 ### Dataset
 1. Dataset is taken from International Energy Agency(IEA) monthly electricity statistics.
